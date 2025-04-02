@@ -1,0 +1,9 @@
+Copy English localisation for the following languages to allow to play with the mod with these languages:
+- French
+- German
+- Spanish
+- Brazilian Portuguese
+- Polish
+- Rusian
+- Japanese
+- Simplified  Chinese
