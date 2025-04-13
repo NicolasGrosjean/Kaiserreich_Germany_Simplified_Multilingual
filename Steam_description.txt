@@ -1,5 +1,10 @@
+[h1]Translation[/h1]
+
+Translate into French
+
+[h1]English[/h1]
+
 Copy English localisation for the following languages to allow to play with the mod with these languages:
-- French
 - German
 - Spanish
 - Brazilian Portuguese
@@ -7,3 +12,7 @@ Copy English localisation for the following languages to allow to play with the 
 - Rusian
 - Japanese
 - Simplified  Chinese
+
+[h1]GitHub[/h1]
+
+This mod is also available on [url=https://github.com/NicolasGrosjean/Kaiserreich_Germany_Simplified_Multilingual]GitHub[/url].
