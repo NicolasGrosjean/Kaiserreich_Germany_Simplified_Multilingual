@@ -13,6 +13,6 @@ tags={
 	"Events"
 }
 picture="thumbnail.png"
-supported_version="1.17.*"
+supported_version="1.19.*"
 path="D:/Documents/Paradox Interactive/Hearts of Iron IV/mod/Kaiserreich_Germany_Simplified_Multilingual"
 remote_file_id="3456883865"

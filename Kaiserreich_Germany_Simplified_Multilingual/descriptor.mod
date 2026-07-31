@@ -13,5 +13,5 @@ tags={
 	"Events"
 }
 picture="thumbnail.png"
-supported_version="1.17.*"
+supported_version="1.19.*"
 remote_file_id="3456883865"
